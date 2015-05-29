@@ -50,6 +50,12 @@ coverage.xml
 # Django stuff:
 *.log
 
+# pickle files:
+*.pkl
+
+# .txt files
+*.txt
+
 # Sphinx documentation
 docs/_build/
 
